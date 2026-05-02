@@ -26,7 +26,8 @@ Screenshots
 
 1. screenshots/1_splashscreen.jpg (the splash screen displays for a few seconds when you open the app)
 2. screenshots/2_first_login_registration.jpg (on the firs run the user is required to register to the system)
-3. 
+3. screenshots/3_main_menu.jpg (the user simply clicks fuel up! after paying for the fuel and getting a receipt)
+4. 
 
 
 Author
