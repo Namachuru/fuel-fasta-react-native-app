@@ -39,14 +39,14 @@ Screenshots
 ---
 
 Problem It Solves
-Many drivers face challenges in tracking fuel expenses and accessing consistent discounts. Fuel Fasta addresses this by digitizing fuel transactions and enabling drivers to benefit from structured discount systems, improving cost efficiency and operational sustainability.
+- Many drivers face challenges in tracking fuel expenses and accessing consistent discounts. Fuel Fasta addresses this by digitizing fuel transactions and enabling drivers to benefit from structured discount systems, improving cost efficiency and operational sustainability.
 
 ---
 
 Status
-Prototype – actively being improved and redeployed  
+- Prototype – actively being improved and redeployed  
 
 ---
 
 Author
-Reynold Nangawe (Namachuru)
+- Reynold Nangawe (Namachuru)
