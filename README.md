@@ -53,7 +53,7 @@ Author
 
 ---
 
-## 🔮 Future Improvements
+Future Improvements
 - Integration with real fuel station APIs  
 - Payment system integration  
 - Driver analytics dashboard
