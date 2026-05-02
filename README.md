@@ -50,3 +50,10 @@ Status
 
 Author
 - Reynold Nangawe (Namachuru)
+
+---
+
+## 🔮 Future Improvements
+- Integration with real fuel station APIs  
+- Payment system integration  
+- Driver analytics dashboard
